@@ -17,5 +17,6 @@ public class Tugas120 {
             totalNilai += i;
         }
         System.out.println("Total angka tercetak: " + totalNilai);
+        sc.close();
     }
 }
